@@ -150,3 +150,28 @@ Optional SearchProvider abstraction if you want explicit Google/Bing API calls.
 
 File output to a configurable directory.
 
+
+
+References:
+Let's start listing everything useful here.
+
+https://openai.com/
+
+https://github.com/openai/openai-dotnet
+
+https://github.com/openai/openai-dotnet?tab=readme-ov-file#how-to-use-responses-with-web-search
+
+https://www.nuget.org/packages/OpenAI
+
+https://chatgpt.com/
+
+https://github.com/openai/openai-dotnet/blob/main/docs/Observability.md
+
+https://www.postman.com/
+
+https://copilot.microsoft.com/
+
+https://support.google.com/websearch/thread/135474043/how-do-i-get-web-search-results-using-an-api?hl=en
+
+https://developers.google.com/custom-search/v1/overview
+
