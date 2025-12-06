@@ -151,6 +151,27 @@ Optional SearchProvider abstraction if you want explicit Google/Bing API calls.
 File output to a configurable directory.
 
 
+How this meets goals: (Note: Let's continue to develop upon these topics, and more!)
+
+Runs as long as you set it: MaxGenerations + MaxDuration and a background service keep it running overnight.
+
+Uses latest Microsoft .NET and official OpenAI .NET library: net10.0 + NuGet OpenAI. 
+
+Iterative / genetic search: populations, scoring, elite selection, mutation, repeated.
+
+Bulk / cost-aware:
+
+population generation in one Responses call (structured outputs),
+
+batch scoring per generation instead of per-candidate calls.
+
+Search & query rewording: PromptRefinementService + ISearchProvider + Responses web_search tool.
+
+Research bundle output: research-bundle.json + index.html + one HTML per candidate.
+
+“List the styles used”: each candidate’s spec includes layout / nav / palette / type / style notes and is surfaced in the index and demo.
+
+
 
 References:
 Let's start listing everything useful here.

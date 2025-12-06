@@ -8,7 +8,6 @@ Cache refined questions.
 Let one Responses call output multiple refined variants and pick one locally.
 Use cheaper models (e.g. gpt-4.1-mini) for prompt refinement.
 */
-
 public sealed class PromptRefinementService
 {
     private readonly OpenAIResponseClient _responses;
