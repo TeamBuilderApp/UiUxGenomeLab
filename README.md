@@ -18,6 +18,7 @@ single developer can complete alone.
 -   [High-Level Architecture](#high-level-architecture)
 -   [Technical Components](#technical-components)
 -   [How It Meets the Goals](#how-it-meets-the-goals)
+-   [Theory How AI is used to automatically translate any website into a 508 compliant and or WCAG A-AAA that meets any set user preference of ADA requirement, then eventually expand beyond just compliance to meet even more ADA need. Overall, supporting as many users as possible with the same full user experience, using AI behind the scenes to translate any website into a fully compliant output. AKA deliver a translation per user, per AI translating to meet user set preference(s).. ](#how-it-meets-the-goals-508-WCAG-ADA-overall-compliance-adapting-to-any-user-preference)
 -   [References](#references)
 
 ------------------------------------------------------------------------
@@ -177,6 +178,19 @@ overnight or longer.
 **Style inspection**
 - Each candidate exposes palette, typography, layout notes, navigation
 structure, and design tokens.
+
+------------------------------------------------------------------------
+
+## Theory How AI is used to automatically translate any website into a 508 compliant and or WCAG A-AAA that meets any set user preference of ADA requirement, then eventually expand beyond just compliance to meet even more ADA need. Overall, supporting as many users as possible with the same full user experience, using AI behind the scenes to translate any website into a fully compliant output. AKA deliver a translation per user, per AI translating to meet user set preference(s)
+- How-it-meets-the-goals-508-WCAG-ADA-overall-compliance-adapting-to-any-user-preference.
+- The logic of meeting full 508 compliance.
+- The logic of meeting full WCAG to AAA ratios.
+- The logic of supporting the largest ADA audience possible, aka as many users as possible, first focusing on the law. Then research expanding to meet further ADA need.
+- Unit tests generated to meet the highest percentage chance as the backbone requirements to meet full 508 + WCAG compliance.
+- Translate unit tests into logic for the AI to consider as mandatory requirements to consider, then solving also for the remainder of generating UI UX that meets full compliance. The whole puzzle, not just some pieces aka.
+- Then build into a sub service using AI as a service to live translate any website into a full 508 + WCAG compliant output as one of two ways, or both.
+Way 1) Would be a plug-in that any website can install that would allow any user to set their preferences to toggle each of their ADA disabilities, then the AI morphing the website to enable their full use the same as a non ADA user would be able to use the same site, except that the AI plug-in would morph the website to meet any preference toggled on, for all supportable ADA preferences that the user toggled on in their preferences.
+Way 2) A 508 tool, app, or computer program for all of ADA to use, which uses the same approach to AI, except the tool would live translate (morph) any website into the compliant fully complete delivery, for any website that the user visits, as they visit. So 508 compliance and WCAG requirements would no longer need to be met so long as ADA instead simply installed this tool, program, or app, which would ensure that ADA always was garanteed full functionality of every website, no matter if the website followed any 508 compliance, there would no longer be a need nor reason for a website to struggle to meet all audience need and design the inbetween, any longer, if we can use this way as a tool for ADA to auto handle live translation for any 508 or WCAG law first, then meet more ADA audience need to further the research onwards. This would be really nice and I would like to request help, aside from this project, just to create this POC and I will offer to share selling it to 508 ADA as a number one most downloaded most nescessary tool to SOLVE FULLY finally, for the whole user experience. I really like this idea, we should create a GitHub aside from this project just for this, and begin preparing a proof of concept which we can present to ADA. Even the AI that can live morph any website into meeting 508 ADA WCAG, itself would be a major MAJOR long term problem solved for ADA as a whole. AI is the key, hoping that every website in the world will meet compliance is the hardest approach, which does not support users well. This tool would be the complete solution finally, AI is the proven middle service, it should be trained as POC to demo that it can translate ANY and all websites into a 508 WCAG delivery, for all legally supported disabilities, to prove the sale to ADA, at that point the whole world can download, install, or be translated on the spot if Way 1, was used which the website itself would have installed the plug-in. This proves why a 508 app or tool or software program is the 100% winner to AI live translation to ensure 100% user experience delivery.
 
 ------------------------------------------------------------------------
 
