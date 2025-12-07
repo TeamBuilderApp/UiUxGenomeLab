@@ -1,5 +1,8 @@
 name: Spellcheck
 
+permissions:
+  contents: read
+
 on:
   push:
     branches:
@@ -23,6 +26,3 @@ jobs:
         # NOTE: pin to a stable release tag or a commit SHA instead of `main` before merging into production.
         # Replace `main` with a specific vX.Y.Z tag or SHA once you confirm a valid release.
         uses: check-spelling/check-spelling@main
-        with:
-          # adjust config-location if your project uses a different path
-          config-location: .github/check-spelling.yml
